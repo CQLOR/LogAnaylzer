@@ -1,0 +1,495 @@
+timestamp,username,ip_address,event_type,reason_flagged,message
+2026-03-10T00:12:09Z,sbonsulmy,250.214.159.75,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T00:33:22Z,cstandellf0,159.41.101.146,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T00:34:01Z,jimlen40,70.187.191.110,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T00:34:16Z,afockecs,109.195.177.116,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T00:56:05Z,gmarchenko63,32.97.171.129,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T00:57:10Z,rswadlingekq,119.17.18.89,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:00:36Z,vnare70,118.102.183.35,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:14:23Z,mmacleesey,16.42.52.134,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:14:55Z,fvreiberggy,113.165.217.103,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:17:54Z,aferenclu,182.146.165.234,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:23:57Z,abrainsbynw,85.51.137.3,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:35:16Z,cgerrell9p,177.112.161.110,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:39:53Z,dpatnelli28,150.91.86.138,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:40:30Z,kwitherspoonq2,81.54.246.70,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T01:48:14Z,noodle92,51.185.130.223,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-10T01:48:36Z,wswabey4q,29.34.191.171,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T02:07:51Z,csayes2g,18.218.16.243,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T02:23:19Z,crubinovitch6c,115.43.114.17,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T02:29:08Z,cloudejz,250.130.146.119,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T02:32:40Z,mlosemannnr,148.72.171.141,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T02:44:27Z,evazquez35,10.0.2.87,PRIV_CHANGE,Privilege Escalation Indicator | IP targeting multiple users (>=5),User added to administrators group
+2026-03-10T02:56:18Z,swallsworthdb,6.11.201.222,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:04:59Z,painley6w,190.57.54.111,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:05:46Z,ckilliner8h,198.130.35.19,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:09:35Z,alaffordci,98.93.136.241,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:20:58Z,tbroshnb,168.15.37.119,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:38:35Z,mmclucky7q,115.22.65.145,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:41:54Z,tdunster2s,75.70.177.106,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:41:58Z,moffordof,90.145.48.169,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:42:55Z,sjeduchat,83.23.249.125,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:42:57Z,jantrack78,161.7.107.192,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:43:12Z,egovan60,153.137.151.100,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:49:47Z,chonackern4,157.156.194.145,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T03:53:56Z,0875660762,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T03:55:57Z,wkerslakedh,110.95.239.216,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T04:00:00Z,fdurdenf6,249.95.8.211,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T04:08:48Z,ohanesig,160.238.192.12,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T04:12:20Z,boldnallqa,51.250.70.15,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T04:17:47Z,bmaplethorpe2f,233.13.29.73,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T04:29:13Z,dhackingeng,18.71.31.249,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T04:32:42Z,root,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T04:41:18Z,admin,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T04:42:37Z,pbemwell30,38.139.13.225,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-10T04:56:01Z,bgraceef,197.63.168.42,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-10T06:56:56Z,jtoll,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T07:01:18Z,jdoe,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T07:15:09Z,virginio94,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T07:20:10Z,mabell8,187.189.169.208,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-10T07:32:04Z,admin,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T08:22:13Z,admin,192.168.1.15,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T08:53:21Z,rdybald1t,199.85.211.111,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-10T10:19:13Z,maryborris25@yahoo.com,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T10:28:11Z,jtoll,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T12:27:53Z,@@@12345678,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T13:31:52Z,caligirl21,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T13:35:18Z,root,135.103.53.111,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-10T13:35:18Z,root,135.103.53.111,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-10T13:51:46Z,dilhole5,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T13:56:16Z,edymoke12,95.48.83.200,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-10T14:03:51Z,root,51.167.98.192,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-10T14:12:43Z,blerhinan1p,106.71.242.1,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-10T15:20:45Z,tbraxter,10.0.2.87,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-10T15:41:59Z,2102331459,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T16:06:52Z,root,129.16.101.108,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-10T16:28:52Z,cpittam5,79.68.37.38,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-10T16:32:22Z,root,192.168.1.17,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-10T16:45:10Z,ppurver26,232.89.201.111,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-10T17:02:08Z,69691234,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T17:34:52Z,admin,192.168.1.15,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-10T17:35:03Z,5334240,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T17:40:34Z,jamieleigh121003,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T19:12:34Z,bphayre6,195.195.1.138,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-10T19:18:44Z,bbrunag,127.163.4.42,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-10T19:57:58Z,jtoll,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T20:00:26Z,hhevner2u,116.179.99.94,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-10T20:03:39Z,hgaineofengland3,84.201.139.199,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-10T20:22:34Z,210233!,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T21:14:38Z,tbraxter,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T21:48:23Z,admin,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T22:12:48Z,root,141.242.251.142,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-10T22:43:35Z,@@@*$)!^,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T23:31:23Z,ifairbank2x,83.217.213.248,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-10T23:46:08Z,root,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T23:46:19Z,69691234,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-10T23:47:14Z,noodles04,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T00:03:07Z,mduffittfm,123.26.218.5,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T00:30:26Z,hskellykg,196.150.159.189,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T00:48:21Z,jtoll,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T00:49:52Z,rstrottonmx,181.213.45.127,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T00:54:26Z,sgres6d,134.176.6.29,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T01:02:34Z,gleamyqs,192.62.233.171,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T02:05:57Z,mjirick1m,50.214.111.252,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T02:07:22Z,obrycegp,197.222.142.21,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T02:23:58Z,mewins7g,168.102.120.152,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T02:58:54Z,mmcgonnellgq,184.219.142.165,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T02:59:58Z,jbroughi4,101.102.173.218,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T03:01:02Z,root,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T03:14:04Z,gcharerlk,53.191.216.75,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T03:17:35Z,gbarthelet1y,216.97.254.32,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-11T03:20:48Z,ljarmainegz,38.118.180.135,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T03:38:14Z,tbraxter,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T03:39:57Z,vpedderlg,226.159.231.116,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:04:02Z,sveschambes3l,92.145.111.214,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:06:09Z,ktribbeck41,56.71.211.198,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:13:42Z,binglesfieldfq,194.152.141.221,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:25:21Z,stomankowskih6,158.127.238.18,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:36:46Z,vbachman9y,150.191.122.102,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:49:05Z,kkamenfb,234.50.181.213,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:54:08Z,tcridlon50,90.174.129.90,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:54:44Z,crydzynskiec,124.199.229.2,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T04:54:46Z,fdymockeks,124.168.244.206,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-11T06:34:50Z,jtoll,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T06:49:51Z,rrobinsonw,63.37.91.225,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-11T07:12:25Z,root,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T07:25:30Z,virginiaynicasio,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T07:52:56Z,root,192.168.1.15,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-11T08:33:21Z,doliveras1n,194.187.18.112,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-11T08:52:30Z,jdoe,192.168.1.15,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T09:50:28Z,jtoll,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T10:36:06Z,tlearmondn,38.76.148.24,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-11T10:50:17Z,lhouldey2k,42.137.188.195,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-11T11:21:01Z,tbraxter,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T11:42:58Z,root,192.168.1.15,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-11T12:47:13Z,root,93.1.127.33,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-11T14:05:45Z,aorto2w,67.207.108.195,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-11T14:24:02Z,admin,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T14:33:07Z,696910,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T15:40:46Z,root,27.214.198.117,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-11T17:02:25Z,@@@12288264,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T17:59:05Z,jtoll,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T18:30:33Z,5334376,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T18:36:53Z,dmarquese1s,9.125.71.35,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-11T20:03:29Z,jtoll,10.0.2.87,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T20:45:12Z,jtoll,10.0.2.87,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T22:23:22Z,@@@%%%postbus12344,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T22:37:48Z,nolegranda,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T22:59:51Z,virginie1,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-11T23:16:59Z,jdoe,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T00:06:05Z,ncroux5d,16.99.137.10,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T00:18:24Z,eschooling4n,132.174.104.91,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T00:49:14Z,cofogerty32,242.238.108.238,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T01:08:23Z,aburnelch,234.35.2.245,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T01:21:11Z,rmacbarron5o,252.89.165.116,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T01:22:30Z,wsalmonsi1,181.78.12.159,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T01:30:18Z,abarck5x,92.250.164.181,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T01:38:44Z,caligio1,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T01:38:57Z,rclutheram2v,212.180.194.212,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T01:42:00Z,mmccandlessjj,105.142.105.181,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T02:11:30Z,jdoe,192.168.1.17,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-12T02:12:29Z,syanovo5,34.9.187.129,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T02:35:23Z,jcalverd52,21.216.39.33,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T02:37:55Z,sworswick3v,254.14.125.119,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T02:40:01Z,yfilyashin3x,211.37.49.246,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T02:43:11Z,hmulrooney1,194.77.213.18,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-12T03:09:59Z,emaudsonki,69.221.125.8,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T03:12:41Z,bmacilhargyfh,224.188.211.76,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T03:42:07Z,aleabeatera5,212.139.23.148,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T03:53:00Z,rjosephoff1l,21.229.64.93,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T04:03:25Z,emorehallqk,50.157.32.223,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T04:05:44Z,root,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T04:11:06Z,root,131.143.28.72,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-12T04:14:36Z,kgoodswennp,177.244.140.21,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T04:17:27Z,bgarman7w,145.20.40.187,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T04:30:15Z,admin,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T04:41:33Z,jpaddingdonfl,204.8.221.83,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T04:52:01Z,erowcastle57,207.140.2.70,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-12T05:03:28Z,relic35,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T05:46:47Z,jtoll,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T06:28:05Z,jamieleemckay,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T06:43:35Z,jkairns2o,255.140.35.50,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-12T08:25:02Z,bmcniven2d,69.183.67.77,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-12T09:11:53Z,krepel,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T10:28:12Z,dmatisoff27,48.62.183.191,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-12T11:46:54Z,jwadlowb,195.164.21.242,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-12T12:01:41Z,admin,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T12:34:56Z,spencercrand,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T13:03:27Z,kwennam11,161.4.56.8,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-12T14:05:36Z,root,162.211.191.140,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-12T14:41:56Z,bmargramp,186.133.36.204,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-12T15:20:32Z,jamieleecoxx,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T15:33:28Z,dili21,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T20:40:52Z,@@@*$)!^,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T21:21:17Z,qwerty,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T21:54:34Z,root,235.240.89.72,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-12T23:02:23Z,jtoll,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-12T23:31:57Z,dlasslett2j,131.195.12.213,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-12T23:54:25Z,mfairfoull21,195.169.120.69,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-13T00:02:58Z,aperrellema,156.195.12.104,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T00:13:48Z,agristdg,211.85.195.189,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T00:29:21Z,@@@&FEtopIN@&@,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T00:31:12Z,swilhelmyl7,141.83.68.145,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T00:48:04Z,ekorneichik4m,47.181.183.201,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T00:52:34Z,dpain82,191.4.70.30,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:03:23Z,gattwoullif,254.137.183.196,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:12:51Z,dseddonlt,33.43.75.55,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:21:39Z,fmorford84,234.210.80.220,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:27:32Z,jdoe,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T01:29:59Z,caligirl1216,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T01:30:24Z,bklemke1,57.215.225.195,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:32:23Z,thows4i,222.111.98.88,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:35:03Z,elerigo5h,244.186.206.89,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:38:54Z,vcloseag,250.243.2.27,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:43:07Z,llinneylx,163.142.33.205,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:51:25Z,lgribbin8c,108.123.112.1,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T01:58:32Z,fshevelsmn,98.175.104.227,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T02:04:14Z,jhutchesonmu,87.58.235.192,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T02:21:00Z,lgremane2a,168.122.146.184,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-13T02:33:03Z,acrickettaq,92.162.79.118,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T02:34:37Z,admin,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T03:06:27Z,bbonifacioqu,199.131.82.30,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T03:08:02Z,welderfield8k,199.172.195.102,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T03:12:29Z,fvalett6m,89.184.40.102,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T03:18:39Z,cferranp0,78.174.79.49,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T03:32:06Z,onewnham9h,168.224.63.24,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T03:34:26Z,kreary5i,101.130.32.75,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T03:43:27Z,hmclugishhe,117.138.8.21,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T04:11:42Z,acroft81,18.8.58.104,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T04:11:53Z,jtoll,10.0.2.87,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T04:23:03Z,zcastilla9b,92.239.173.170,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T04:33:48Z,tlynnett2,81.136.103.114,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T04:36:55Z,gpeete2s,142.219.254.61,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-13T04:42:31Z,vscammondeng9,34.57.101.26,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T04:56:31Z,drosthornox,230.121.16.77,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T04:57:33Z,tkettoehl,125.216.9.12,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-13T05:10:40Z,root,114.162.125.102,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-13T07:17:22Z,dbeevis10,99.4.203.185,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-13T07:35:26Z,lstainesf,206.28.51.8,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-13T08:03:49Z,jtoll,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T10:13:46Z,fbasten2m,197.205.155.41,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-13T11:00:32Z,nfrankis1q,7.65.86.176,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-13T12:14:12Z,root,192.63.184.248,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-13T12:27:26Z,dilhara27,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T12:48:32Z,kreppel22,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T12:51:05Z,radaminii,39.153.38.122,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-13T15:05:07Z,caligirl30,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T15:31:31Z,gewwnz,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T15:44:00Z,rshilvock2l,200.236.162.162,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-13T16:12:05Z,jdoe,10.0.2.87,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T17:01:15Z,jdoe,10.0.2.87,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-13T17:29:13Z,root,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T18:01:19Z,cseawright22,52.83.125.41,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-13T18:32:26Z,adeverson24,37.245.29.204,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-13T19:32:29Z,nolejo,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T20:21:31Z,semonsi,51.185.130.223,AUTH_SUCCESS,IP targeting multiple users (>=5),Login successful
+2026-03-13T21:06:41Z,dilheen,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T21:27:04Z,root,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T21:36:11Z,monkey,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T22:00:14Z,jdoe,10.0.2.87,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-13T22:11:52Z,ONETWO,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T23:15:50Z,root,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T23:41:51Z,admin,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-13T23:53:13Z,dmcblainm,136.228.120.55,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-14T00:02:24Z,root,125.232.21.10,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-14T00:10:53Z,pgodwynby,237.70.213.9,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T00:19:05Z,mpadgettbp,193.34.20.208,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T00:20:37Z,gcarryer23,161.218.50.227,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T00:23:18Z,gbrandjv,7.206.78.17,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T00:25:21Z,ocousin99,151.166.201.30,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T00:28:14Z,celcomb91,84.18.7.199,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T00:54:30Z,cwissonn,212.187.144.71,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T01:01:19Z,dinettgh,163.156.224.124,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T01:33:17Z,mknappen2z,173.25.107.246,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-14T01:36:17Z,fivanchenkovan,208.206.183.7,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T01:41:03Z,tbraxter,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T01:42:30Z,hhappsaj,56.219.126.53,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T01:43:46Z,root,192.168.1.17,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-14T01:54:22Z,gmattiazzob2,253.68.159.239,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T02:01:09Z,naloshikin4l,181.147.185.12,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T02:13:13Z,sflanne7n,63.154.17.69,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T02:15:22Z,mdimmned7,249.213.240.23,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T02:38:02Z,fglantzi6,91.86.140.155,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T02:42:51Z,nstocky1w,190.145.60.1,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:11:27Z,dbentsen9x,83.84.168.7,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:12:51Z,fpettwoodfp,187.219.174.36,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:14:42Z,amajuryo7,20.4.78.81,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:19:32Z,aruosm0,54.255.42.118,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:25:08Z,pweildishl4,178.192.191.185,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:26:46Z,oreilingen3e,98.179.224.140,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:28:31Z,lcansfielday,149.207.134.151,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:29:07Z,kpinnicker,152.103.202.35,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:30:27Z,egilding8g,71.103.88.117,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:36:16Z,cworlinggw,207.58.170.131,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:38:44Z,hridgewellgx,12.12.128.141,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:43:11Z,eferron96,121.42.34.78,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T03:53:26Z,jskakunas9q,15.42.25.153,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T04:35:47Z,jdoe,192.168.1.15,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T04:53:39Z,dcuttlej9,24.10.230.156,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-14T05:14:46Z,jdoe,192.168.1.17,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T05:40:47Z,reliccy,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T06:01:31Z,anthonycarl,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T06:31:23Z,rvinto,223.245.96.110,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-14T06:43:56Z,rdenyukin2t,80.123.211.206,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-14T09:54:50Z,jtoll,192.168.1.15,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-14T13:12:22Z,jdoe,100.108.103.43,AUTH_SUCCESS,Brute Force Followed by Success (Username),Login successful
+2026-03-14T14:24:21Z,hsicklingk,210.158.177.73,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-14T14:28:47Z,gscotti20,122.167.220.85,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-14T14:45:41Z,cdrever2g,236.68.243.33,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-14T14:47:43Z,5334382,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T16:40:57Z,cjumel2i,133.49.133.245,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-14T16:40:57Z,cjumel2i,133.49.133.245,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-14T17:03:33Z,2102360,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T17:17:39Z,admin,192.168.1.17,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T17:53:55Z,admin,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T17:58:23Z,ealdritte,214.103.94.217,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-14T18:12:16Z,kyardyu,51.185.130.223,AUTH_SUCCESS,IP targeting multiple users (>=5),Login successful
+2026-03-14T18:21:53Z,govelld,17.208.115.147,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-14T20:26:17Z,root,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T20:40:29Z,nphilippea,71.121.191.107,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-14T22:22:14Z,virginidad_1981,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T22:50:10Z,admin,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-14T23:45:17Z,root,220.112.12.221,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-15T00:14:09Z,btregunnajt,196.149.116.78,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T00:23:05Z,dcritcherdo,125.154.152.88,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T00:24:46Z,pespinolaai,189.130.188.220,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T00:37:33Z,citzhakok,15.138.220.247,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T01:03:22Z,vheiferhj,88.132.118.253,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T01:05:10Z,gcawsbyw,157.92.253.98,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T01:06:06Z,kwoodington3c,152.130.68.35,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T01:24:22Z,uwatkisss,56.189.92.117,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T01:25:44Z,spencergizmo577,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T01:30:34Z,npaolaccie,65.108.10.162,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T01:32:25Z,admin,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T01:34:12Z,hventomcx,110.201.127.34,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T01:58:46Z,cdanat33,81.22.236.131,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T01:58:46Z,dblenkensop2b,220.10.116.198,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-15T02:04:02Z,rsteenson14,113.240.161.188,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T02:25:08Z,cdaniels22,139.195.216.10,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T02:42:05Z,sgewer11,176.25.40.12,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T02:43:05Z,lhallowesj4,68.74.96.65,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T02:48:31Z,tbraxter,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T02:52:49Z,vhillen2v,45.2.44.27,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-15T03:06:40Z,@@@02227831234,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T03:08:44Z,ssansom6v,44.108.251.133,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T03:21:48Z,root,32.27.135.194,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-15T03:29:22Z,olightbowneep,86.1.39.19,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T03:32:10Z,hladong,186.92.61.160,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T03:35:55Z,calmeida1g,231.166.162.118,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T03:45:49Z,anthonycobos,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T03:48:26Z,tbraxter,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T04:07:59Z,oandraseh,30.184.162.146,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T04:21:59Z,ljakubowskip2,22.164.246.190,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T04:24:53Z,rquesteg5,35.119.1.131,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T04:40:07Z,thurleym7,216.71.46.90,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T04:42:32Z,ccathcarths,79.219.26.206,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T04:51:22Z,cdurie37,182.117.129.106,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T04:58:06Z,nsailornt,9.149.55.68,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T04:59:49Z,jmasdinc0,159.160.219.109,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-15T05:42:14Z,admin,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T05:48:06Z,relic18840,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T06:06:23Z,lmacfaydent,63.78.204.129,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-15T07:00:37Z,noodles20,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T07:21:51Z,jtoll,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T08:00:21Z,eblindtl,155.248.115.177,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-15T08:11:00Z,root,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T08:20:38Z,0875660116,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T08:31:41Z,jdoe,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T08:34:30Z,alebrum2f,214.119.198.228,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-15T08:58:24Z,dilheen,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T11:05:29Z,krepska,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T11:54:25Z,root,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T13:40:35Z,admin,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T16:49:08Z,virginiawild,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T17:10:31Z,jtoll,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T18:12:20Z,root,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T19:11:22Z,5334376,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T19:24:15Z,root,215.111.196.43,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-15T19:31:37Z,533427,51.185.130.223,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-15T19:45:43Z,anthonycav112,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T20:27:21Z,admin,10.0.2.87,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-15T21:01:40Z,mshaxby1v,239.215.194.39,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-16T00:07:21Z,tbraxter,192.168.1.15,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T00:10:01Z,bhundydk,57.145.52.219,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T00:12:24Z,tludlem15,191.129.198.62,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T00:16:42Z,ependallmz,124.97.86.237,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T00:26:27Z,2102319,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T00:54:59Z,cmoonf5,191.176.43.176,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T00:58:09Z,yhowgegog2,48.210.130.130,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T00:59:31Z,bmccraw54,36.228.74.134,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T01:27:30Z,root,51.91.61.140,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-16T01:32:49Z,tbraxter,192.168.1.15,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T01:44:07Z,lpavyerga,42.186.12.171,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:11:21Z,dstredderl1,49.35.49.186,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:21:48Z,tbraxter,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T02:24:15Z,jsidry55,62.148.220.188,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:30:12Z,mbobaschq5,242.121.57.103,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:34:05Z,echimesdv,103.135.20.40,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:39:24Z,rcoldrickf1,115.124.47.81,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:41:15Z,tfoulkeslw,128.16.204.247,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:48:18Z,fcasetti4e,158.94.124.73,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:53:28Z,akimptonm1,57.58.128.182,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T02:57:46Z,cpassinghamid,220.165.56.249,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T03:18:03Z,rmassingerir,44.108.17.219,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T03:22:03Z,jcruttenden1w,52.118.195.241,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-16T03:33:44Z,ksnuggs4y,77.50.116.228,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T03:47:00Z,hgoardpj,175.37.212.93,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T03:48:22Z,bwalsham7f,149.140.251.175,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T03:51:54Z,oblacklerd5,187.131.22.222,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T03:56:34Z,kmundallm9,209.2.140.63,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T03:59:59Z,afaulkner1o,127.81.33.84,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T04:15:06Z,codoireidhp7,136.32.71.171,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T04:19:56Z,oedgeon83,54.129.25.211,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T04:25:14Z,mantonomolii8s,204.19.54.243,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T04:28:40Z,hdakin79,102.174.24.122,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T04:37:37Z,ebooseyke,186.60.74.251,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T04:38:53Z,nhuckelja,103.160.156.240,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T04:51:22Z,ewaleck,17.79.39.163,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-16T05:15:06Z,rbradman1z,131.240.211.105,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-16T05:57:31Z,jdoe,10.0.2.87,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T06:14:34Z,jtoll,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T06:32:55Z,kstreatfields,82.11.147.213,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-16T07:45:56Z,COMPUTER22,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T08:57:14Z,0875660762,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T09:58:07Z,lwickman2n,118.49.218.81,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-16T10:30:17Z,tbraxter,10.0.2.87,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-16T10:48:33Z,jdoe,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T10:50:25Z,2102319,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T13:58:21Z,jtoll,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T14:05:04Z,ssemens2c,106.73.155.132,PRIV_CHANGE,Privilege Escalation Indicator,Logged in as root
+2026-03-16T14:36:29Z,jtoll,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T16:10:44Z,sdeathe23,136.52.247.41,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-16T16:49:26Z,noodle83,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T17:55:32Z,sbuckbee28,19.87.183.229,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-16T19:14:42Z,root,94.234.64.142,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-16T19:17:09Z,sdecayette1p,51.185.130.223,AUTH_SUCCESS,IP targeting multiple users (>=5),Login successful
+2026-03-16T19:19:30Z,ONEWHITE1,51.185.130.223,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password
+2026-03-16T19:35:25Z,tbraxter,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T19:52:42Z,admin,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T20:28:08Z,bferryman2k,51.185.130.223,AUTH_SUCCESS,IP targeting multiple users (>=5),Login successful
+2026-03-16T20:57:46Z,witzhaki1o,222.40.229.183,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-16T21:28:31Z,root,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-16T22:17:50Z,jhewinsr,253.158.27.57,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-16T23:41:46Z,root,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T00:07:46Z,mhultberg3f,245.92.24.216,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T00:16:46Z,ggabrielik0,76.174.188.29,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T00:19:45Z,kreppach,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T00:20:42Z,mhansmannk9,254.72.104.249,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T00:40:13Z,klouthe51,60.36.192.39,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T00:52:21Z,uaglionely,76.165.188.151,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T01:04:48Z,khyne5n,132.119.105.12,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T01:25:29Z,gchidler5t,245.14.12.231,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T01:25:59Z,egulleford6,223.191.21.146,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T01:37:38Z,tfilderymi,164.205.28.54,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T01:43:31Z,admin,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T01:47:51Z,cdionisio7i,21.124.247.233,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T01:52:01Z,therriesh5,128.61.26.62,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T01:52:30Z,nemanuelepu,244.213.202.179,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T01:56:23Z,admin,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T01:58:17Z,fconnopj5,144.7.93.120,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T02:16:29Z,bplackstonep9,32.16.31.109,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T02:16:54Z,cmcguckenml,188.44.116.10,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T02:24:15Z,mpohlingk6,0.24.243.154,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T02:52:24Z,cjedrzejczyk3r,115.39.180.87,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T02:53:14Z,tgillivrie8p,151.94.254.167,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T03:03:31Z,rmeneelykl,186.212.88.255,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T03:25:57Z,rgowardb7,124.80.28.245,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T03:31:14Z,glittletoncz,165.47.59.9,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T03:56:04Z,gewooon,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T04:21:57Z,kwhewillfg,236.138.74.38,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T04:27:09Z,rcorpsft,51.88.83.243,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T04:35:27Z,afilipovic8q,75.225.228.6,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T04:35:38Z,dkearley4a,140.79.60.18,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T04:35:45Z,dbaisejl,12.253.63.127,AUTH_SUCCESS,Unusual Login Time (00:00 - 05:00),Login successful
+2026-03-17T05:17:58Z,root,57.93.189.70,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-17T05:24:22Z,rrolfo1u,206.110.221.158,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-17T07:42:11Z,admin,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T09:16:30Z,mkibbee2q,234.32.53.24,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-17T09:27:13Z,cackroyd1r,191.177.215.207,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-17T09:39:02Z,root,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T10:41:13Z,tbraxter,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T11:16:17Z,gewoonmies,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T12:35:44Z,root,232.158.179.28,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-17T12:52:15Z,root,53.248.13.123,PRIV_CHANGE,Privilege Escalation Indicator,chown command failed
+2026-03-17T13:11:52Z,hstuke1x,109.148.70.52,PRIV_CHANGE,Privilege Escalation Indicator,User added to administrators group
+2026-03-17T14:14:39Z,root,98.241.7.192,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-17T14:43:44Z,dcandey33,49.84.55.19,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-17T14:50:31Z,tbraxter,192.168.1.17,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T15:02:08Z,admin,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T15:03:03Z,bhearnesq,175.101.151.252,PRIV_CHANGE,Privilege Escalation Indicator,chmod command failed
+2026-03-17T18:25:24Z,696910,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T18:32:10Z,6987,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T18:43:22Z,rklaaasenc,238.213.65.94,PRIV_CHANGE,Privilege Escalation Indicator,Granted sudo privileges
+2026-03-17T19:19:52Z,gex1999,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T19:56:51Z,@@@111,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T21:09:25Z,admin,192.168.1.15,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T22:06:44Z,relichunt,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T22:58:15Z,0875661409,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-17T23:37:25Z,root,10.0.2.87,AUTH_FAIL,Excessive failures for username (>=5) | Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-18T03:02:14Z,relic1969,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-18T03:38:31Z,relic1969,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-18T06:31:45Z,jamieleedennis7,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-18T20:06:38Z,69756975,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-18T20:45:50Z,jamieleedielle,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-18T21:28:22Z,0875660787,51.185.130.223,AUTH_FAIL,Excessive failures from IP (>=5) | IP targeting multiple users (>=5),Invalid password
+2026-03-18T22:04:34Z,relic17,51.185.130.223,AUTH_FAIL,IP targeting multiple users (>=5),Invalid password

@@ -1,0 +1,205 @@
+PART 2: Log Analyzer Option
+🧪  Capstone Part II – Track 1: Network Forensics (PCAP Analysis)
+Assignment Title
+Capstone Part II: Network Forensics Investigation (PCAP Analysis)
+🏢  Scenario
+You are a Security Operations Center (SOC) analyst investigating suspicious network activity
+within your organization.
+A network-based alert has been triggered indicating potential malware-related activity originating
+from an internal host. The alert suggests possible communication with known malicious
+infrastructure.
+You have been provided with a packet capture (PCAP) containing network traffic associated with
+this activity located here.The password to the .zip file containing the pcap is `infected`.
+Your task is to analyze this traffic and determine:
+•whether a system is compromised
+•how the compromise likely occurred
+•what actions the attacker performed after gaining access
+DATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 1/10
+You are expected to operate as a professional SOC analyst and produce a structured investigation
+report.
+🌐  Environment Context
+Assume the following about the environment:
+•Internal network range: provided with the dataset
+•Enterprise Windows-based environment
+•Domain and host naming conventions may be visible in traffic
+•One or more internal systems may be involved
+🎯  Objective
+Analyze the provided PCAP file and produce a professional network forensic report.
+Your analysis must identify and explain:
+•suspicious traffic patterns
+•potential command-and-control (C2) activity
+•DNS anomalies
+•possible data exfiltration
+•a reconstructed timeline of attacker behavior
+🛠  Tools
+⚠  You will not have perfect or complete data. You must make reasonable, evidence-based
+conclusions.
+DATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 2/10
+You may use any of the following:
+•Wireshark (primary)
+•tcpdump
+•tshark (optional / advanced)
+📦  Deliverables
+You must submit:
+1. Forensic Report (Required)
+• network_forensics_report.md or .pdf
+2. Timeline of Activity (Required)
+•chronological sequence of events
+3. Filters Used (Required)
+•Wireshark display filters or command-line queries used during analysis
+4. Indicators of Compromise (Required)
+•IP addresses
+•domains
+•URLs
+•file artifacts (if applicable)
+⚠  Important RequirementDATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 3/10
+🧱  Report Structure (Required)
+🔹  1. Executive Summary
+Provide a high-level summary of the incident:
+•What happened
+•Severity of the issue
+•Potential business impact
+👉  Audience: non-technical stakeholders
+🔹  2. Environment Overview
+Describe what you can infer about the environment:
+•internal network structure
+•domain (if visible)
+•types of systems present
+🔹  3. Host Identification
+Identify the system most likely involved in suspicious activity.
+Include:
+•IP address
+You must support your conclusions with evidence from the PCAP.
+Answers without justification will not receive full credit.
+DATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 4/10
+•MAC address (if available)
+•hostname (if available)
+•associated user (if identifiable)
+🔹  4. Traffic Analysis Findings
+A. Suspicious Traffic Patterns
+•unusual communication behavior
+•repeated connections
+•beaconing patterns
+B. DNS Analysis
+•suspicious or uncommon domains
+•patterns indicating malicious infrastructure
+C. Command-and-Control (C2) Activity
+•outbound communication to suspicious systems
+•periodic or structured communication behavior
+D. Data Exfiltration Analysis
+•evidence of outbound data transfer
+•abnormal request sizes or patterns
+You must justify your identification using evidence.
+DATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 5/10
+🔹  5. Indicators of Compromise (IOC)
+List all identified indicators:
+•IP addresses
+•domains
+•URLs
+•file artifacts
+Explain why each indicator is considered suspicious.
+🔥  6. Timeline of Activity (Critical Section)
+Reconstruct a timeline that includes:
+1. initial suspicious activity
+2. evidence of compromise
+3. outbound communication
+4. follow-on behavior
+Your timeline must be:
+•chronological
+•supported by evidence
+🔹  7. Attack Narrative
+Explain:
+What do you believe happened during this incident?
+DATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 6/10
+Describe the likely sequence of events, such as:
+•initial infection
+•execution
+•command-and-control communication
+•attacker activity
+🔹  8. Impact Assessment
+Explain:
+•which systems are affected
+•what data may be at risk
+•potential organizational impact
+🔹  9. Recommendations
+Immediate Actions
+•isolate affected systems
+•block malicious IPs/domains
+•reset credentials
+Short-Term Improvements
+•endpoint scanning
+•patching
+•network monitoringDATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 7/10
+Long-Term Improvements
+•deploy EDR
+•improve DNS monitoring
+•implement stronger logging and alerting
+🔹  10. Reflection
+Briefly explain:
+•what was challenging
+•what techniques worked best
+•what you would improve
+📏  Requirements
+•Length: 1000–1500 words
+•Must include:
+◦timeline
+◦IOCs
+◦filters used
+•Must include reasoning and evidence—not just answers
+🧠  Grading Rubric
+1. Technical Analysis – 30 points
+•correctly identifies suspicious behaviorDATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 8/10
+•accurately interprets network traffic
+2. Timeline Reconstruction – 20 points
+•logical sequence of events
+•supported by evidence
+3. IOC Identification – 15 points
+•completeness
+•accuracy
+•justification
+4. Attack Narrative – 15 points
+•coherent explanation
+•ties multiple findings together
+5. Communication & Clarity – 10 points
+•well-structured
+•professional tone
+•readable
+6. Completeness – 10 points
+•all required sections included
+Upload a file
+DATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 9/10
+Upload a file to continue w ith this lesson.
+Choose FileNo file chosen
+Upload 
+•••
+DATASETS: Option C: Vulnerability Prioritizer PART 2: SOC Monitoring Option 
+Back to class
+3/31/26, 11:27 PM Code:You Lesson - PART 2: Log Analyzer Option
+https://classroom.code-you.org/resource/lesson-69c494b734f7ae5563a05a45 10/10
